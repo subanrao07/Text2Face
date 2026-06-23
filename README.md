@@ -1,2 +1,2 @@
 # Text2Face
-A Realistic Image Generation of Face From Text Description Using  the Fully Trained Generative Adversarial Networks
+A Text2Face application that combines GANs, NLP, TF-IDF vectorization, and facial image matching to generate face images from textual descriptions.
